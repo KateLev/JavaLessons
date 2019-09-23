@@ -15,8 +15,7 @@ public class FirstJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("Fig");
-// TODO code application logic here
+        System.out.print("Hi!");
     }
     
 }
