@@ -16,6 +16,7 @@ public class FirstJava {
      */
     public static void main(String[] args) {
         System.out.print("Hi!Hi!");
+		System.out.print("MMM, intresting");
     }
     
 }
