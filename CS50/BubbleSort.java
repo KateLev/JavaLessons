@@ -7,7 +7,7 @@ public class BubbleSort {
         int[] BubbleSort={1,3,5,2,0,8,9,10,1,15,89,44,11};
         int count=0;
         int n=BubbleSort.length;
-        boolean checker=true; //chech array for sorted
+        boolean checker=true; //check array for sorted
         System.out.println("Unsorted:");//print unsorted
         for (int i=0;i<n;i++)
         {
